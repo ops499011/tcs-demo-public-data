@@ -1,0 +1,307 @@
+Docker:
+sudo apt update
+sudo apt install apt-transport-https ca-certificates curl software-properties-common -y
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+sudo apt update
+sudo apt install docker-ce -y
+PULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a container
+
+
+
+================================
+
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push azurec80/cvt-pvt-repo-1:latest
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+=======================================
+Today Data
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push azurec80/cvt-pvt-repo-1:latest
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push azurec80/cvt-pvt-repo-1:latest
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+docker tag local-image:tagname new-repo:tagname
+docker push new-repo:tagname
+
+docker push azurec80/cvt-pvt-repo-1:latest
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+
+
+
+docker tag httpd:latest azurec80/cvt-pvt-repo-1:latest
+
+ULL - Download and Images:
+- docker pull Images
+Run - start a Container:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
+:
+- docker run -d -p 80:80 nginx
+
+Copy - Index.html
+- docker cp index.html container_name:/usr/share/nginx/html
+ps -list containers:
+- docker ps
+- docker ps -a
+STOP - stop a containe
+
